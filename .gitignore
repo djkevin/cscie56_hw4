@@ -3,6 +3,10 @@
 *.iws
 *Db.properties
 *Db.script
+.project
+grailsw
+grailsw.bat
+.classpath
 .settings
 stacktrace.log
 /*.zip
