@@ -1,0 +1,4 @@
+db.nerddb.insert({
+firstName:"K", lastName:"J", initials:"kj", dateOfBirth:new Date(),acceptedTerms: true 
+}
+)
